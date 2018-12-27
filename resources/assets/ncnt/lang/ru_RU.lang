@@ -1,0 +1,26 @@
+#
+# Items
+nikitat.nugget.copper.name=Медный самородок
+nikitat.nugget.tin.name=Оловянный самородок
+nikitat.nugget.lead.name=Свинцовый самородок
+nikitat.nugget.bronze.name=Бронзовый самородок
+nikitat.ingot.copper.name=Медный слиток
+nikitat.ingot.tin.name=Оловянный слиток
+nikitat.ingot.lead.name=Свинцовый слиток
+nikitat.ingot.bronze.name=Бронзовый слиток
+#
+# Blocks
+nikitat.ore.copper.name=Медная руда
+nikitat.ore.tin.name=Оловянная руда
+nikitat.ore.lead.name=Свинцовая руда
+nikitat.mblock.copper.name=Медный блок
+nikitat.mblock.tin.name=Оловянный блок
+nikitat.mblock.lead.name=Свинцовый блок
+nikitat.mblock.bronze.name=Бронзовый блок
+#
+# Other
+itemGroup.ncnt.tab.name.metals=NikitatCore Металлы
+#
+# Config
+ncnt.config.module.ore=Модуль "Металлы"
+ncnt.config.cat.enable/disable_modules=Включение/выключение модулей

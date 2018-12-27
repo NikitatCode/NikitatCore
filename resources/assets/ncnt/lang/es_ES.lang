@@ -1,0 +1,26 @@
+#
+# Items
+nikitat.nugget.copper.name=Pepita de cobre 
+nikitat.nugget.tin.name=Pepita de estaño 
+nikitat.nugget.lead.name=Pepita de plomo 
+nikitat.nugget.bronze.name=Pepita de bronce 
+nikitat.ingot.copper.name=Lingote de cobre 
+nikitat.ingot.tin.name=Lingote de estaño 
+nikitat.ingot.lead.name=Lingote de plomo 
+nikitat.ingot.bronze.name=Lingote de bronce 
+#
+# Blocks
+nikitat.ore.copper.name=Mineral de cobre 
+nikitat.ore.tin.name=Mineral de estaño 
+nikitat.ore.lead.name=Mineral de plomo 
+nikitat.mblock.copper.name=Bloque de cobre 
+nikitat.mblock.tin.name=Bloque de estaño 
+nikitat.mblock.lead.name=Bloque de plomo 
+nikitat.mblock.bronze.name=Bloque de bronce 
+#
+# Other
+itemGroup.ncnt.tab.name.metals=NikitatCore Metales
+#
+# Config
+ncnt.config.module.ore=Módulo "Metales"
+ncnt.config.cat.enable/disable_modules=Habilitar/deshabilitar módulos

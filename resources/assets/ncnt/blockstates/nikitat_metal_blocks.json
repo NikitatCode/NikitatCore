@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "type=0": { "model": "ncnt:mblock0" },
+    "type=1": { "model": "ncnt:mblock1" },
+    "type=2": { "model": "ncnt:mblock2" },
+    "type=3": { "model": "ncnt:mblock3" }
+  }
+}

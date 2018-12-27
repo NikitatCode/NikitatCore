@@ -1,0 +1,7 @@
+{
+    "parent": "block/fire_floor",
+    "textures": {
+        "particle": "ncnt:blocks/mystical_fire0",
+        "fire": "ncnt:blocks/mystical_fire0"
+    }
+}

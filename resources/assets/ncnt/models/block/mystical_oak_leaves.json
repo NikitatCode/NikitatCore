@@ -1,0 +1,6 @@
+{
+  "parent": "block/leaves",
+  "textures": {
+    "all": "ncnt:blocks/leaves_mystical_oak"
+  }
+}

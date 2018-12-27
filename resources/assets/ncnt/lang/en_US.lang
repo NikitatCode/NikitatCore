@@ -1,0 +1,26 @@
+#
+# Items
+nikitat.nugget.copper.name=Copper Nugget
+nikitat.nugget.tin.name=Tin Nugget
+nikitat.nugget.lead.name=Lead Nugget
+nikitat.nugget.bronze.name=Bronze Nugget
+nikitat.ingot.copper.name=Copper Ingot
+nikitat.ingot.tin.name=Tin Ingot
+nikitat.ingot.lead.name=Lead Ingot
+nikitat.ingot.bronze.name=Bronze Ingot
+#
+# Blocks
+nikitat.ore.copper.name=Copper Ore
+nikitat.ore.tin.name=Tin Ore
+nikitat.ore.lead.name=Lead Ore
+nikitat.mblock.copper.name=Copper Block
+nikitat.mblock.tin.name=Tin Block
+nikitat.mblock.lead.name=Lead Block
+nikitat.mblock.bronze.name=Bronze Block
+#
+# Other
+itemGroup.ncnt.tab.name.metals=NikitatCore Metals
+#
+# Config
+ncnt.config.module.ore=Module "Metals"
+ncnt.config.cat.enable/disable_modules=Enable/disable modules
